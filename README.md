@@ -33,6 +33,6 @@ How to Edit the Project
 
 Open the Project Directory:
 
-bash
+**bash:**
 code .
 **Edit HTML File:** You can find the HTML files in the project directory. Open it and make necessary changes.
