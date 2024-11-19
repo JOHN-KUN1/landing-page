@@ -19,12 +19,12 @@ Footer Section (Tailwind CSS): Contains additional links and contact information
 **How to View the Project**
 Clone the Repository:
 
-**bash**
+**bash:**
 git clone https://github.com/JOHN-KUN1/landing-page.git
 
 **Navigate to the Project Directory:**
 
-**bash**
+**bash:**
 cd car-selling-landing-page
 **Open the work.html File in Your Browser**: You can open the work.html file directly in your browser to view the landing page.
 
