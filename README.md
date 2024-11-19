@@ -26,13 +26,13 @@ git clone https://github.com/JOHN-KUN1/landing-page.git
 
 **bash**
 cd car-selling-landing-page
-Open the index.html File in Your Browser: You can open the work.html file directly in your browser to view the landing page.
+**Open the work.html File in Your Browser**: You can open the work.html file directly in your browser to view the landing page.
 
 How to Edit the Project
-Install a Code Editor: Make sure you have a code editor installed, such as VS Code.
+**Install a Code Editor**: Make sure you have a code editor installed, such as VS Code.
 
 Open the Project Directory:
 
 bash
 code .
-Edit HTML File: You can find the HTML files in the project directory. Open it and make necessary changes.
+**Edit HTML File:** You can find the HTML files in the project directory. Open it and make necessary changes.
